@@ -2,5 +2,5 @@
 
 ## Den 1
 
-* [Poznámky](Den02/poznamky.ipynb)
+* [Poznámky](Den01/poznamky.ipynb)
 * [Úkoly](Den01/ukoly.ipynb)
