@@ -1,3 +1,5 @@
+![Project header](./doc/header.drawio.svg)
+
 # Letní škola AI 2025
 
 ## Den 1
