@@ -4,7 +4,7 @@
 
 ## Poznámky pro všechny dny
 
-Przentace na google drive:
+Prezentace na google drive:
 https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0vPg/edit?usp=sharing
 
 ## Podklady pro jednotlivé dny
