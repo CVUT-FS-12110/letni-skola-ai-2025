@@ -24,6 +24,7 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
     1. Stáhněte data z akcelerometru
     1. Nahrajte data do google colab dle ukázky v Návodu výše
     1. Data zpracujte a klasifikujte druh pohybu dle ukázky v Návodu výše
+    1. Bonus: Aplikujte další předzpracování dat jako např. plovoucí průměr, nebo normalizace dat
 
 
 
