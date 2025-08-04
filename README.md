@@ -15,6 +15,18 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
 * [Úkoly](Den01/ukoly.ipynb)
 * [Vyřešené úkoly](Den01/ukoly_reseni.ipynb) - Řešení ukazovaná na hodině. Nemusí být nutně optimální ani zcela správná.
 
+### Den 2
+
+* [Návod](https://colab.research.google.com/drive/1Lsu2TbDjd5a3ctgx0jQB_E7k02kXAURb?usp=sharing)
+* Úkoly: 
+    1. Stáhněte si aplikaci Phyphox do mobilu 
+    1. Naměřte data z akcelerometru
+    1. Stáhněte data z akcelerometru
+    1. Nahrajte data do google colab dle ukázky v Návodu výše
+    1. Data zpracujte a klasifikujte druh pohybu dle ukázky v Návodu výše
+
+
+
 ### Den 3
 
 * [Úkol 1](Den03/ukol1.ipynb)
