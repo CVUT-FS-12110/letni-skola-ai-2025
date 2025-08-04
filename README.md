@@ -13,7 +13,7 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
 
 * [Poznámky](Den01/poznamky.ipynb)
 * [Úkoly](Den01/ukoly.ipynb)
-
+* [Vyřešené úkoly](Den01/ukoly_reseni.ipynb) - Řešení ukazovaná na hodině. Nemusí být nutně optimální ani zcela správná.
 
 ### Den 3
 
