@@ -17,7 +17,7 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
 
 ### Den 2
 
-* [Návod](https://colab.research.google.com/drive/1Lsu2TbDjd5a3ctgx0jQB_E7k02kXAURb?usp=sharing)
+* [Návod](Den02/02_time_series.ipynb)
 * Úkoly: 
     1. Stáhněte si aplikaci Phyphox do mobilu 
     1. Naměřte data z akcelerometru
