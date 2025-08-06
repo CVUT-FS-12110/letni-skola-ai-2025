@@ -37,3 +37,9 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
 
 * [Data](Den03/data/)
 * [Klasifikátory](Den03/classifiers/)
+
+
+### Den 4
+* [HTTP requests](Den04/requests.ipynb)
+* [Grog API](Den04/groq.ipynb)
+* [Abuse emails](Den04/emails.ipynb)
