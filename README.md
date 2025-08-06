@@ -30,6 +30,7 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
 
 ### Den 3
 
+* [Úvod](Den03/uvod.ipynb)
 * [Úkol 1](Den03/ukol1.ipynb)
 * [Úkol 2](Den03/ukol2.ipynb)
 * [Úkol 3](Den03/ukol3.ipynb)
