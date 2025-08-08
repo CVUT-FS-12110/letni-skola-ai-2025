@@ -46,3 +46,4 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
 
 ### Den 5
 * [Request pro soutěž](https://colab.research.google.com/drive/1czc2LQJSwj3r8bB5DZY8k6LUhH5BUcnu?usp=sharing)
+* [Dotazník](https://forms.gle/ogibwW8ZoXE5M6TF8)
